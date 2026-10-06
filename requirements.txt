@@ -1,0 +1,3 @@
+# Projek ini menggunakan Python Standard Library (tanpa dependensi wajib).
+# Dependensi opsional untuk pengujian:
+pytest>=7.0.0
