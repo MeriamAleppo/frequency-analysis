@@ -2,7 +2,7 @@
 
 Projek ini adalah perangkat bantu interaktif berbasis terminal (CLI) untuk menganalisis frekuensi kemunculan huruf pada teks tersandi (*ciphertext*) dan membantu proses kriptanalisis sandi monoalfabetik klasik seperti **Caesar Cipher** dan **Monoalphabetic Substitution Cipher**.
 
-Projek ini disusun secara modular dan terstruktur untuk pelaporan aktivitas mingguan (*weekly activities* / portfolio kriptografi).
+Projek ini disusun secara modular dan terstruktur untuk pelaporan aktivitas mingguan (*weekly activities*).
 
 ---
 
